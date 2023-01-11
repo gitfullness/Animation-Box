@@ -1,9 +1,4 @@
-/*
-Animation Box
-
-coded by Julia Hiyeon Kim (c)2021
-
-*/
+import './style.css';
 
 window.onload = function() {
 	var box = document.getElementById('box');
