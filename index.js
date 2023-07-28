@@ -1,4 +1,4 @@
-import './style.css';
+/* Julia Hiyeon Kim (2021) */
 
 window.onload = function() {
 	var box = document.getElementById('box');
