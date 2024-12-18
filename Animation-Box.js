@@ -1,3 +1,4 @@
+/* an infinite animation by halving the second setInterval time (from 8 to 4) in line 11 */
 /* Julia Hiyeon Kim (2021) */
 
 window.onload = function() {
