@@ -1,5 +1,4 @@
-/* An infinite animation by halving the second setInterval time (from 8 to 4) in line 12. */
-/* 8/4 is the smallest pair. From 6/3, it does not look smooth. */
+/* An infinite animation */
 /* Julia Hiyeon Kim (2021) */
 
 window.onload = function() {
